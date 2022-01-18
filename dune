@@ -1,0 +1,4 @@
+(library
+ (name test_lib)
+ (public_name test_lib)
+ (modules foo))
